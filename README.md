@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
   </div>
 
-  <h3 align="center">React Native Job Finder Application</h3>
+  <h3 align="center">React Native Job Finder App</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
